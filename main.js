@@ -168,7 +168,7 @@ for (const era of ERAS) {
   });
 
   scene.add(group);
-  bubbles.push({ era, group, sphere, planes });
+  bubbles.push({ era, group, sphere, core, planes });
 }
 
 /* ---------- "you are here" marker ---------- */
