@@ -6,31 +6,31 @@ const BG = 0xfdf0ea;
 const ERAS = [
   {
     key: 'start', title: 'Mixed media art', years: '2012', pos: -10.5, r: 1.4,
-    color: 0x7fa8f0, tags: ['self-expression'], img: null,
+    color: 0xc8e8c9, tags: ['self-expression'], img: null,
     body: 'Where it started. Art as self-expression, before design had a name for it.',
     metric: ''
   },
   {
     key: 'era1', title: 'The Fashion Foundation', years: '2014 - 2019', pos: -5.5, r: 2.4,
-    color: 0xc9a0f5, tags: ['art & identity', 'apparel'], img: 'assets/flower.jpg',
+    color: 0xe8b2b8, tags: ['art & identity', 'apparel'], img: 'assets/flower.jpg',
     body: 'Five years of fashion design at Pearl Academy (Nottingham Trent). Form and function became inseparable here, and so did the documentation instinct that runs through everything after.',
     metric: '2016 pattern-making process book'
   },
   {
     key: 'era2', title: 'Brand & eCommerce', years: '2019 - 2023', pos: -0.5, r: 2.9,
-    color: 0xf59a55, tags: ['branding', 'eCommerce', 'ux design'], img: 'assets/waffle.png',
+    color: 0xdb8f96, tags: ['branding', 'eCommerce', 'ux design'], img: 'assets/waffle.png',
     body: 'Four years of brand design, UX and eCommerce at scale for 800k people. The 2023 sales pages failure (visual redesign, no research) built the research-first principle.',
     metric: '+34% CVR · $1.2M revenue · 83+ interviews'
   },
   {
     key: 'era3', title: 'The HCI Pivot', years: '2023 - 2025', pos: 5, r: 2.6,
-    color: 0xf6b8d0, tags: ['edtech', 'healthcare', 'content design'], img: 'assets/orbs.jpg',
+    color: 0xe75a72, tags: ['edtech', 'healthcare', 'content design'], img: 'assets/orbs.jpg',
     body: 'Grad school at Indiana University plus three concurrent roles. eCommerce instincts got an academic framework: HCI methods, healthcare UX, IA and a writing voice that had been waiting.',
     metric: '1.8M+ patients · +20% content efficiency'
   },
   {
     key: 'era4', title: 'The AI-Builder', years: '2025 - 2026', pos: 10.5, r: 2.4,
-    color: 0xd9f24f, tags: ['AI reasoning', 'conversational AI'], img: null,
+    color: 0xeece91, tags: ['AI reasoning', 'conversational AI'], img: null,
     body: 'The convergence era. Design craft, writing, AI skills and research discipline arriving at once. Copalm went from capstone to a registered company; now the agentic B2B AI work at Verde. You are here.',
     metric: '53+ users · 523+ build iterations',
     allImages: ['assets/flower.jpg', 'assets/waffle.png', 'assets/orbs.jpg']
